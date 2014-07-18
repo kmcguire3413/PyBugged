@@ -15,9 +15,9 @@ def truecheck(r):
 
 def main():
     levels = (
-        #(stageone.level1, level1check),
-        #(stageone.level2, level2check),
-        #(stageone.level3, truecheck),
+        (stageone.level1, level1check),
+        (stageone.level2, level2check),
+        (stageone.level3, truecheck),
         (stageone.level4, truecheck),
     )
 
