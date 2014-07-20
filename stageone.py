@@ -1,4 +1,14 @@
 '''
+    The point of solving these is not to solve them, but to understand
+    them. By understanding the problem you will gain insight. By simply
+    making the functions return the expected you will gain nothing.
+
+    So, understanding why it is wrong is more important then making it
+    right.
+'''
+
+
+'''
     The result should be 6.
 '''
 def level_notgoodtypes():
@@ -104,4 +114,9 @@ def level_whydifferentencoding():
 '''
 def level_andsomestrings():
     return 'a' and 'b'
+
+'''
+'''
+def level_mixer():
+    for 
 
